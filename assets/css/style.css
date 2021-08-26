@@ -491,13 +491,13 @@ a:hover {
 
 .back-to-top i {
   font-size: 28px;
-  color: #fff;
+  color: rgb(0, 0, 0);
   line-height: 0;
 }
 
 .back-to-top:hover {
   background: #d4af37;
-  color: #fff;
+  color: rgb(0, 0, 0);
 }
 
 .back-to-top.active {
@@ -611,7 +611,7 @@ a:hover {
 --------------------------------------------------------------*/
 .navbar-default {
   transition: all .5s ease-in-out;
-  background-color: #ffffff;
+  background-color: #000000;
   padding-top: 28px;
   padding-bottom: 28px;
   -webkit-backface-visibility: hidden;
@@ -648,7 +648,7 @@ a:hover {
 
 .navbar-default.navbar-trans .nav-link, .navbar-default.navbar-reduce .nav-link {
   font-size: 1.1rem;
-  color: #000000;
+  color: #e7e7e7;
   font-weight: 600;
   letter-spacing: 0.030em;
   transition: all 0.1s ease-in-out;
@@ -695,7 +695,7 @@ a:hover {
 }
 
 .navbar-default.navbar-trans .nav-link:hover {
-  color: #000000;
+  color: #dfd9d9;
 }
 
 .navbar-default.navbar-trans .show > .nav-link,
@@ -796,7 +796,7 @@ a:hover {
 
 .navbar-toggler span {
   display: block;
-  background-color: #000000;
+  background-color: #ffffff;
   height: 3px;
   width: 25px;
   margin-top: 4px;
@@ -1464,7 +1464,7 @@ a:hover {
 ======================================*/
 .card-header-b {
   padding: 1rem;
-  color: #ffffff;
+  color: #000000;
   position: absolute;
   bottom: 20px;
   z-index: 2;
@@ -2146,7 +2146,7 @@ footer {
 }
 
 footer .copyright-footer {
-  border-top: 1px solid rgb(0, 0, 0);
+  border-top: 1px solid #ddd;
   padding-top: 20px;
 }
 
