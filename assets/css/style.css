@@ -11,6 +11,7 @@
 body {
   font-family: 'Poppins', sans-serif;
   color: #555555;
+  background-color: black;
 }
 
 h1,
@@ -19,11 +20,11 @@ h3,
 h4,
 h5,
 h6 {
-  color: #000000;
+  color: #f7f4f4;
 }
 
 a {
-  color: #000000;
+  color: #ffffff;
   text-decoration: none;
   transition: all .5s ease;
 }
@@ -34,13 +35,13 @@ a:hover {
 }
 
 .link-two {
-  color: #000000;
+  color: #dfdfdf;
   transition: all .5s ease;
 }
 
 .link-two:hover {
   text-decoration: underline;
-  color: #000000;
+  color: #e2e2e2;
 }
 
 .link-one {
@@ -2121,7 +2122,7 @@ a:hover {
 .section-footer {
   padding-top: 60px;
   margin-top: 60px;
-  background: #f3f3f3;
+  background: #000000;
 }
 
 .section-footer ul {
@@ -2139,13 +2140,13 @@ a:hover {
 }
 
 footer {
-  background: #f3f3f3;
+  background: #000000;
   text-align: center;
   padding: 30px 0;
 }
 
 footer .copyright-footer {
-  border-top: 1px solid #ddd;
+  border-top: 1px solid rgb(0, 0, 0);
   padding-top: 20px;
 }
 
