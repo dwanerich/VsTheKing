@@ -29,7 +29,7 @@ a {
 }
 
 a:hover {
-  color: #cfcd28;
+  color: #d4af37;
   text-decoration: none;
 }
 
@@ -123,7 +123,7 @@ a:hover {
 }
 
 .color-b {
-  color: #cfcd28;
+  color: #d4af37;
 }
 
 .color-d {
@@ -161,7 +161,7 @@ a:hover {
   bottom: -1px;
   width: 100%;
   height: 2px;
-  background-color: #cfcd28;
+  background-color: #d4af37;
   z-index: 2;
 }
 
@@ -219,7 +219,7 @@ a:hover {
 }
 
 .pagination-a .pagination .page-link:hover, .pagination-a .pagination .page-link:active, .pagination-a .pagination .page-link:focus {
-  background-color: #cfcd28;
+  background-color: #d4af37;
 }
 
 .pagination-a .pagination .page-link span {
@@ -246,12 +246,12 @@ a:hover {
 }
 
 .pagination-a .pagination .page-item.active .page-link {
-  background-color: #cfcd28;
+  background-color: #d4af37;
 }
 
 .a {
   text-decoration: none;
-  color: #cfcd28;
+  color: #d4af37;
   font-size: 1.3rem;
 }
 
@@ -358,7 +358,7 @@ a:hover {
   position: absolute;
   width: 70px;
   height: 4px;
-  background-color: #cfcd28;
+  background-color: #d4af37;
   bottom: 20px;
   left: 0;
 }
@@ -413,7 +413,7 @@ a:hover {
 }
 
 .carousel-pagination .swiper-pagination-bullet-active {
-  background-color: #cfcd28;
+  background-color: #d4af37;
   width: 36px;
 }
 
@@ -443,7 +443,7 @@ a:hover {
   display: inline-block;
   transition: all 0.6s ease-in-out;
   color: #ffffff;
-  background-color: #cfcd28;
+  background-color: #d4af37;
   opacity: .9;
 }
 
@@ -481,7 +481,7 @@ a:hover {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #cfcd28;
+  background: #d4af37;
   width: 40px;
   height: 40px;
   border-radius: 50px;
@@ -495,7 +495,7 @@ a:hover {
 }
 
 .back-to-top:hover {
-  background: #cfcd28;
+  background: #d4af37;
   color: #fff;
 }
 
@@ -522,7 +522,7 @@ a:hover {
   top: calc(50% - 30px);
   left: calc(50% - 30px);
   border: 6px solid #f2f2f2;
-  border-top: 6px solid #cfcd28;
+  border-top: 6px solid #d4af37;
   border-radius: 50%;
   width: 60px;
   height: 60px;
@@ -568,12 +568,12 @@ a:hover {
 }
 
 .btn.btn-a:hover {
-  background-color: #cfcd28;
+  background-color: #d4af37;
   color: #000000;
 }
 
 .btn.btn-b {
-  background-color: #cfcd28;
+  background-color: #d4af37;
   color: #000000;
 }
 
@@ -583,13 +583,13 @@ a:hover {
 }
 
 .btn.btn-b-n {
-  background-color: #cfcd28;
+  background-color: #d4af37;
   color: #ffffff;
   border-radius: 0;
 }
 
 .btn.btn-b-n:hover {
-  background-color: #cfcd28;
+  background-color: #d4af37;
   color: #ffffff;
 }
 
@@ -664,7 +664,7 @@ a:hover {
   width: 100%;
   height: 2px;
   z-index: 0;
-  background-color: #cfcd28;
+  background-color: #d4af37;
   transform: scaleX(0);
   transform-origin: right;
   transition: transform .2s ease-out, opacity .2s ease-out 0.3s;
@@ -690,7 +690,7 @@ a:hover {
 }
 
 .navbar-default.navbar-trans .nav-link:before {
-  background-color: #cfcd28;
+  background-color: #d4af37;
 }
 
 .navbar-default.navbar-trans .nav-link:hover {
@@ -715,7 +715,7 @@ a:hover {
 }
 
 .navbar-default.navbar-reduce .nav-link:before {
-  background-color: #cfcd28;
+  background-color: #d4af37;
 }
 
 .navbar-default.navbar-reduce .nav-link:hover {
@@ -750,7 +750,7 @@ a:hover {
 
 @media (min-width: 768px) {
   .navbar-default .dropdown .dropdown-menu {
-    border-top: 4px solid #cfcd28;
+    border-top: 4px solid #d4af37;
     border-left: 0;
     display: block;
     position: absolute;
@@ -767,13 +767,13 @@ a:hover {
 
 .navbar-default .dropdown .dropdown-menu .dropdown-item:hover {
   background-color: #ffffff;
-  color: #cfcd28;
+  color: #d4af37;
   transition: all 500ms ease;
 }
 
 .navbar-default .dropdown .dropdown-menu .dropdown-item.active {
   background-color: #ffffff;
-  color: #cfcd28;
+  color: #d4af37;
 }
 
 .navbar-default .dropdown:hover .dropdown-menu {
@@ -973,7 +973,7 @@ a:hover {
 }
 
 .intro .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #2eca6a;
+  background-color: #d4af37;
   width: 36px;
 }
 
@@ -1007,7 +1007,7 @@ a:hover {
 .intro .intro-body .price-a {
   color: #ffffff;
   padding: 1rem 1.5rem;
-  border: 2px solid #cfcd28;
+  border: 2px solid #d4af37;
   border-radius: 50px;
   text-transform: uppercase;
   letter-spacing: 0.030em;
@@ -1116,7 +1116,7 @@ a:hover {
 }
 
 .intro-single .title-single-box {
-  border-left: 3px solid #2eca6a;
+  border-left: 3px solid #d4af37;
 }
 
 .intro-single .title-single-box .title-single {
@@ -1333,7 +1333,7 @@ a:hover {
 .price-a {
   color: #ffffff;
   padding: .6rem .8rem;
-  border: 2px solid #cfcd28;
+  border: 2px solid #d4af37;
   border-radius: 50px;
   text-transform: uppercase;
   letter-spacing: 0.030em;
@@ -1343,7 +1343,7 @@ a:hover {
   width: 100%;
   position: absolute;
   z-index: 2;
-  background-color: #cfcd28;
+  background-color: #d4af37;
 }
 
 .card-info {
@@ -1483,7 +1483,7 @@ a:hover {
 
 .card-header-b .category-b {
   font-size: .9rem;
-  background-color: #2eca6a;
+  background-color: #d4af37;
   padding: .3rem .7rem;
   color: #313131;
   letter-spacing: 0.030em;
@@ -1660,7 +1660,7 @@ a:hover {
 
 .card-box-ico {
   padding: 1rem 3rem 1rem 2.5rem;
-  border: 5px solid #2eca6a;
+  border: 5px solid #d4af37;
 }
 
 .card-box-ico span {
@@ -1789,7 +1789,7 @@ a:hover {
 }
 
 .card-box-d:hover .card-overlay-hover {
-  background-color: #cfcd28;
+  background-color: #d4af37;
   opacity: .9;
 }
 
@@ -1843,7 +1843,7 @@ a:hover {
 }
 
 .sinse-box {
-  background-color: #cfcd28;
+  background-color: #d4af37;
   padding: 1rem 2rem;
   position: absolute;
   left: 15px;
@@ -1942,7 +1942,7 @@ a:hover {
 
 .testimonial-ico i {
   font-size: 48px;
-  color: #cfcd28;
+  color: #d4af37;
 }
 
 .testimonial-text {
@@ -1980,8 +1980,8 @@ a:hover {
 # Contact Section
 --------------------------------------------------------------*/
 .form-as #sendmessage {
-  color: #cfcd28;
-  border: 1px solid #cfcd28;
+  color: #d4af37;
+  border: 1px solid #d4af37;
   display: none;
   text-align: center;
   padding: 15px;
@@ -2032,7 +2032,7 @@ a:hover {
 
 .form-as .form-control:focus {
   box-shadow: none;
-  border-color: #cfcd28;
+  border-color: #d4af37;
 }
 
 .php-email-form .error-message {
@@ -2047,7 +2047,7 @@ a:hover {
 .php-email-form .sent-message {
   display: none;
   color: #fff;
-  background: #cfcd28;
+  background: #d4af37;
   text-align: center;
   padding: 15px;
   font-weight: 600;
@@ -2067,7 +2067,7 @@ a:hover {
   width: 24px;
   height: 24px;
   margin: 0 10px -6px 0;
-  border: 3px solid #cfcd28;
+  border: 3px solid #d4af37;
   border-top-color: #eee;
   -webkit-animation: animate-loading 1s linear infinite;
   animation: animate-loading 1s linear infinite;
@@ -2094,7 +2094,7 @@ a:hover {
 
 .php-email-form .form-control:focus {
   box-shadow: none;
-  border-color: #cfcd28;
+  border-color: #d4af37;
 }
 
 @-webkit-keyframes animate-loading {
@@ -2131,7 +2131,7 @@ a:hover {
 .section-footer .item-list-a i {
   font-size: 18px;
   padding-right: 4px;
-  color: #cfcd28;
+  color: #d4af37;
 }
 
 .section-footer .widget-a .w-title-a {
