@@ -30,7 +30,7 @@ a {
 }
 
 a:hover {
-  color: #d4af37;
+  color: #8d762c;
   text-decoration: none;
 }
 
@@ -466,6 +466,7 @@ a:hover {
 /*------/ Socials /------*/
 .socials-a {
   text-decoration: none;
+  font-size: 75px;
 }
 
 .socials-a .list-inline-item:not(:last-child) {
@@ -569,7 +570,7 @@ a:hover {
 }
 
 .btn.btn-a:hover {
-  background-color: #d4af37;
+  background-color: #ffffff;
   color: #000000;
 }
 
@@ -1116,9 +1117,9 @@ a:hover {
   padding: 1rem 0 1rem 2rem;
 }
 
-.intro-single .title-single-box {
+/* .intro-single .title-single-box {
   border-left: 3px solid #d4af37;
-}
+} */
 
 .intro-single .title-single-box .title-single {
   font-weight: 600;
